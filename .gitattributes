@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+/Users/dliu/Documents/GitHub/SQL-Loan-Risk-Analysis/hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.zip filter=lfs diff=lfs merge=lfs -text
