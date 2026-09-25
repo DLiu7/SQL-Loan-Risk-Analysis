@@ -1,0 +1,24 @@
+Libraries Used:
+
+Modules Used:
+- zipfile
+- TextIOWrapper
+- csv
+- matplotlib pyplot
+- mySQL
+- Module of State Abbreviations
+
+Division of Labor:
+
+Alban
+- 
+- 
+
+Daniel
+- Task 1 and Task 2
+- Data Extraction and Data Statistics
+
+Milan
+- 
+- 
+
